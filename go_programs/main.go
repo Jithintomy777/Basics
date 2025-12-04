@@ -2,5 +2,5 @@ package main
 
 func main() {
 	// star()
-	// exc1()./
+	// exc1()
 }
